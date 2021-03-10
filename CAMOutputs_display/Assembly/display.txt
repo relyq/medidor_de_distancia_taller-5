@@ -1,0 +1,7 @@
+Partlist exported from D:/Documents/eagle/medidor2/display.sch at 10/03/2021 13:10
+
+Qty Value Device       Package Parts Description                                                                                                     POPULARITY PROD_ID    VALUE
+1         7SEG-CK      7SEG-13 D1    7-segment DISPLAY                                                                                               3                          
+1         CONN_10"     1X10    J1    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections            CONN-11563      
+1         LEDSML0805   SML0805 LED1  LED                                                                                                             17                         
+1         RESISTOR0805 0805    R1    Generic Resistor Package                                                                                                                   
