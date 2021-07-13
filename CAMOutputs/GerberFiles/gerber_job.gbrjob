@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-02-19T02:03:46Z",
+        "CreationDate": "2021-04-14T16:38:35Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -15,6 +15,10 @@
         "Name": {
             "ProjectId": "medidor-2"
         },
-        "Owner": "Nicolas Alejandro Mainenti <nicoale_mainenti@hotmail.es>"
+        "Owner": "Nicolas Alejandro Mainenti <nicoale_mainenti@hotmail.es>",
+        "Size": {
+            "X": 105.41,
+            "Y": 101.6
+        }
     }
 }
