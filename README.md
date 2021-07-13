@@ -5,8 +5,10 @@ esquematica y diseño de pcb del proyecto del medidor de distancia de 5º año 2
 ./docs/ - directorio con las datasheets<br>
 
 <h1>PDF</h1>
-./medidor-BOTTOM.pdf - diseño de pcb lado inferior<br>
-./medidor-TOP.pdf - diseño de pcb lado superior<br>
-./medidor-TOPMIRRORED.pdf - diseño de pcb lado superior espejado. este es el que hay que usar para transferir por método de toner.<br>
+./medidor-botmirr.pdf - diseño de pcb lado inferior espejado<br>
+./medidor-top.pdf - diseño de pcb lado superior<br>
 ./medidor-componentes.pdf - dibujo de componentes con diseño inferior y superior<br>
-./medidor_imprimir.pdf - hoja con 2 copias de cada diseño. no sé porque puse el superior sin espejar pero quizá sirva para algo.<br>
+./medidorsch.pdf - esquematica<br>
+<br>
+./display.pdf - diseño de pcb de la placa para displays<br>
+./display-componentes.pdf - componentes de placa de displays<br>
