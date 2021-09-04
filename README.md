@@ -1,6 +1,8 @@
 # medidor_de_distancia_taller-5
 
 esquematica y diseño de pcb del proyecto del medidor de distancia de 5º año 2018<br>
+./CAMOutputs/ - gerber medidor
+./CAMOutputs_display/ - gerber display
 ./medidor/ - directorio del proyecto de eagle con los .sch y .brd<br>
 ./docs/ - directorio con las datasheets<br>
 
